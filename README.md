@@ -1,5 +1,16 @@
 # Javascript-API-2
-Project I did while I attended Keyin College (Semester 2). Shows how to use hard coded API. 
-To use this application open in visual studio code 
-Have the extension Live Server installed: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-Right click index.html and click "open with Live Server"
+
+## Live Webpage 
+**Link** -  https://cfisher21.github.io/Javascript-API-2/
+
+## Contact Information
+- Email: fishercody23@gmail.com
+- LinkedIn: https://www.linkedin.com/in/fishercody21/
+- Twitter: https://twitter.com/codyfiisher
+
+## Description
+This webpage displays items that are available to purchase in a store. It uses sakura CSS to make it a responsive webpage. 
+The API is hard coded into it as JavaScript. 
+
+## Screenshots
+![Imgur](https://i.imgur.com/7CImcYD.png)
